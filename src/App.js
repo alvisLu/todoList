@@ -177,7 +177,7 @@ function Todo() {
         color="primary"
         variant="h2"
         align="center">
-        Todo List of React Hook
+        Todo List with React Hook
       </Typography>
       <Grid
         className={classes.padding}
